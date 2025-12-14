@@ -11,14 +11,11 @@
 
 ### 📊 GitHub Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usernameJoeTheDeveloper96&show_icons=true&count_private=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoeTheDeveloper96&show_icons=true&count_private=true&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeTheDeveloper96&layout=compact&hide_border=true" height="165" />
 </p>
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoeTheDeveloper96&show_icons=true&count_private=true)
-
 
 ### 👀 Profile Views
 <p align="center">
