@@ -17,6 +17,9 @@
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoeTheDeveloper96&show_icons=true&count_private=true)
+
+
 ### 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JoeTheDeveloper96&style=for-the-badge" />
