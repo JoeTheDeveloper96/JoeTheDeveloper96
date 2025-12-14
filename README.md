@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-512BD4?style=for-the-badge&logo=toad&logoColor=Green" />
+  <img src="https://img.shields.io/badge/Oracle-512BD4?style=for-the-badge&logo=oracle&logoColor=Green" />
 </p>
 
 ---
