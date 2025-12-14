@@ -12,3 +12,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JoeTheDeveloper96&style=for-the-badge)
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
