@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeTheDeveloper96&layout=compact&hide_border=true" height="165" />
 </p>
 
-<p>API currently offline</p>
+<center><p>API currently offline</p> </center>
 
 ---
 
